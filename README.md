@@ -27,7 +27,7 @@ This project demonstrates a basic web automation setup using Selenium WebDriver 
 ### **Project Setup**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/selenium-test-project.git
+   git clone https://github.com/Rainbowmindd/RegistrationPageSelenium
    ```
 2. Navigate to the project directory:
    ```bash
