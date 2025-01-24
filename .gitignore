@@ -1,0 +1,24 @@
+# Pliki tymczasowe systemowe
+*.log
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+Thumbs.db
+
+# Pliki IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Pliki Maven
+target/
+
+# Pliki Java
+*.class
+
+# Pliki Selenium WebDriverManager cache
+webdriver/ # Cache WebDriverManager
+
+# Pliki konfiguracyjne systemowe
+.vscode/
